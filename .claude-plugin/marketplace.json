@@ -1,0 +1,26 @@
+{
+  "name": "founder-skills",
+  "owner": {
+    "name": "Ognjen Gatalo",
+    "url": "https://github.com/ognjengt"
+  },
+  "version": "1.0.0",
+  "description": "Claude Code skills for founders — SOPs, CRO, content creation, outreach, and strategic planning",
+  "repository": "https://github.com/ognjengt/founder-skills",
+  "plugins": [
+    {
+      "name": "founder-skills",
+      "description": "Essential skills for founders: SOPs, conversion optimization, viral hooks, lead magnets, social media writing, outreach, and strategic planning",
+      "skills": [
+        "sop-creator",
+        "cro-optimizer",
+        "viral-hook-creator",
+        "lead-magnet-generator",
+        "strategic-planning",
+        "x-writer",
+        "linkedin-writer",
+        "outreach-specialist"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "founder-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for founders — SOPs, CRO, content creation, outreach, and strategic planning",
+  "bin": {
+    "founder-skills": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ognjengt/founder-skills"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "founder",
+    "sop",
+    "cro",
+    "marketing",
+    "ai"
+  ],
+  "author": "Ognjen Gatalo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ognjengt/founder-skills/issues"
+  },
+  "homepage": "https://github.com/ognjengt/founder-skills#readme"
+}
