@@ -7,7 +7,7 @@ const os = require('os');
 const SKILLS_DIR = path.join(__dirname, '..', 'skills');
 const FOUNDER_CONTEXT = path.join(__dirname, '..', 'FOUNDER_CONTEXT.md');
 const TARGET_DIR = path.join(os.homedir(), '.claude', 'skills');
-const TARGET_CONTEXT = path.join(os.homedir(), '.claude', 'FOUNDER_CONTEXT.md');
+const TARGET_CONTEXT = path.join(process.cwd(), 'FOUNDER_CONTEXT.md'); // Project root
 
 // Available skills
 function getAvailableSkills() {
@@ -43,7 +43,8 @@ function copyDir(src, dest) {
 function parseArgs(args) {
   const result = {
     command: null,
-    skills: []
+    skills: [],
+    noContext: false
   };
 
   let i = 0;
@@ -57,6 +58,8 @@ function parseArgs(args) {
       if (i < args.length) {
         result.skills.push(args[i]);
       }
+    } else if (arg === '--no-context') {
+      result.noContext = true;
     } else if (!arg.startsWith('-')) {
       if (!result.command) {
         result.command = arg;
@@ -96,7 +99,7 @@ function listSkills() {
 }
 
 // Install skills
-function installSkills(selectedSkills) {
+function installSkills(selectedSkills, noContext = false) {
   const availableSkills = getAvailableSkills();
 
   // If no specific skills selected, install all
@@ -125,6 +128,7 @@ function installSkills(selectedSkills) {
   fs.mkdirSync(TARGET_DIR, { recursive: true });
 
   // Copy each skill
+  console.log('Skills (global ~/.claude/skills/):');
   skillsToInstall.forEach(skill => {
     const src = path.join(SKILLS_DIR, skill);
     const dest = path.join(TARGET_DIR, skill);
@@ -137,17 +141,20 @@ function installSkills(selectedSkills) {
     }
   });
 
-  // Copy FOUNDER_CONTEXT.md if it doesn't exist
-  if (!fs.existsSync(TARGET_CONTEXT)) {
-    try {
-      fs.copyFileSync(FOUNDER_CONTEXT, TARGET_CONTEXT);
-      console.log(`\n  📄 Created ~/.claude/FOUNDER_CONTEXT.md`);
-      console.log(`     Edit this file to customize skills for your business.`);
-    } catch (err) {
-      console.log(`\n  ⚠️  Could not copy FOUNDER_CONTEXT.md`);
+  // Copy FOUNDER_CONTEXT.md to project root if not skipped
+  if (!noContext) {
+    console.log('\nFounder Context (project root):');
+    if (!fs.existsSync(TARGET_CONTEXT)) {
+      try {
+        fs.copyFileSync(FOUNDER_CONTEXT, TARGET_CONTEXT);
+        console.log(`  ✅ Created ./FOUNDER_CONTEXT.md`);
+        console.log(`     Edit this file to customize skills for your business.`);
+      } catch (err) {
+        console.log(`  ⚠️  Could not copy FOUNDER_CONTEXT.md - ${err.message}`);
+      }
+    } else {
+      console.log(`  📄 ./FOUNDER_CONTEXT.md already exists (not overwritten)`);
     }
-  } else {
-    console.log(`\n  📄 ~/.claude/FOUNDER_CONTEXT.md already exists (not overwritten)`);
   }
 
   console.log('\n✨ Installation complete!\n');
@@ -167,29 +174,34 @@ Usage:
   npx founder-skills <command> [options]
 
 Commands:
-  install              Install all skills
+  install              Install skills + FOUNDER_CONTEXT.md template
   list                 List available skills
 
 Options:
   --skill, -s <name>   Install specific skill(s)
                        Can be used multiple times
+  --no-context         Skip creating FOUNDER_CONTEXT.md
 
 Examples:
   npx founder-skills install
   npx founder-skills install --skill sop-creator
   npx founder-skills install -s sop-creator -s linkedin-writer
+  npx founder-skills install --no-context
   npx founder-skills list
+
+Skills are installed globally to ~/.claude/skills/
+FOUNDER_CONTEXT.md is created in your current directory (project root)
 `);
 }
 
 // Main
 function main() {
   const args = process.argv.slice(2);
-  const { command, skills } = parseArgs(args);
+  const { command, skills, noContext } = parseArgs(args);
 
   switch (command) {
     case 'install':
-      installSkills(skills);
+      installSkills(skills, noContext);
       break;
     case 'list':
       listSkills();

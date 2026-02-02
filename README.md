@@ -23,12 +23,18 @@ npx founder-skills install --skill sop-creator --skill linkedin-writer
 npx founder-skills list
 ```
 
+### Skip Context File
+
+```bash
+npx founder-skills install --no-context
+```
+
 ### Manual Installation
 
 ```bash
 git clone https://github.com/ognjengt/founder-skills
 cp -r founder-skills/skills/* ~/.claude/skills/
-cp founder-skills/FOUNDER_CONTEXT.md ~/.claude/
+cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 ```
 
 ## Available Skills
@@ -58,7 +64,7 @@ After installation, use skills in Claude Code by typing:
 
 ## Customizing for Your Business
 
-After installation, edit `~/.claude/FOUNDER_CONTEXT.md` to add your business details:
+After installation, edit `FOUNDER_CONTEXT.md` in your project root:
 
 - Company name and industry
 - Target audience and value proposition
@@ -66,7 +72,8 @@ After installation, edit `~/.claude/FOUNDER_CONTEXT.md` to add your business det
 - Business goals
 - Products/services
 
-All skills reference this context to provide personalized outputs.
+Skills automatically check for this file and use it to personalize outputs.
+Each project can have its own context file for different businesses or clients.
 
 ## Contributing
 

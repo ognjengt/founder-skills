@@ -6,7 +6,10 @@ description: Creates detailed Standard Operating Procedures (SOPs) for business 
 # SOP Creator
 
 ## Founder Context
-{{file:../../FOUNDER_CONTEXT.md}}
+
+Before starting, check if `FOUNDER_CONTEXT.md` exists in the project root.
+If it exists, read it and use the business context to personalize your output (company name, brand voice, industry specifics).
+If it doesn't exist, proceed without it but ask clarifying questions about the business context if needed.
 
 ## Purpose
 

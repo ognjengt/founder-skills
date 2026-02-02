@@ -40,7 +40,9 @@ founder-skills/
    # Skill Title
 
    ## Founder Context
-   {{file:../../FOUNDER_CONTEXT.md}}
+   Before starting, check if `FOUNDER_CONTEXT.md` exists in the project root.
+   If it exists, read it and use the business context to personalize your output.
+   If it doesn't exist, proceed without it but ask clarifying questions if needed.
 
    ## Purpose
    [Detailed explanation of the skill's purpose]
@@ -90,9 +92,10 @@ founder-skills/
 ## CLI Development
 
 The CLI (`bin/cli.js`) handles:
-- `install` - Copies skills to `~/.claude/skills/`
+- `install` - Copies skills to `~/.claude/skills/` + FOUNDER_CONTEXT.md to project root
 - `list` - Shows available skills
 - `--skill` flag - Selective installation
+- `--no-context` flag - Skip FOUNDER_CONTEXT.md creation
 
 When modifying the CLI:
 - Keep it dependency-free (Node.js built-ins only)
