@@ -1,12 +1,21 @@
 # Development files
 SKILL_TEMPLATE.md
 
+# Testing
+sandbox/
+
 # Node modules
 node_modules/
 
 # Logs
 *.log
 npm-debug.log*
+
+# Media files
+*.mp4
+*.mov
+*.avi
+*.mkv
 
 # OS files
 .DS_Store

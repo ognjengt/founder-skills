@@ -1,4 +1,4 @@
-# founder-skills
+# Claude Code skills pack for founders, marketers, content creators and business owners
 
 Claude Code skills for founders — SOPs, CRO, content creation, outreach, and strategic planning.
 
