@@ -160,8 +160,3 @@ Use these unless overridden.
 Document any assumptions in **Notes** section.
 
 ---
-
-## Related Skills
-- sop-reviewer (reviews SOPs for clarity and completeness)
-- sop-to-checklist (converts SOPs into simple checklists)
-- sop-to-training (converts SOPs into training materials)
