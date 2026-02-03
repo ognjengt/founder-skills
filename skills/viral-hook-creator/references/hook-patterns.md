@@ -72,7 +72,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 - "Things are moving fast. Here are [number] tools that will save you [time]"
 
 **Examples:**
-- "Startup Founders - Things are moving fast. Here are 15 tools that will save you 100+ hours."
+- "Startup Founders, things are moving fast. Here are 15 tools that will save you 100+ hours."
 - "Here are 12 AI tools that will save you 20 hours a week."
 - "5 Chrome extensions every marketer should bookmark."
 
@@ -175,13 +175,13 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 **Psychology:** Contrarian views grab attention. People love being "in the know."
 
 **Template:**
-- "The biggest lie you've been told about [topic]"
+- "The biggest lie you've been told about [topic] is to [action]"
 - "The biggest lie you've been told about [industry/trend]"
 - "[Common belief] is completely wrong. Here's why"
 
 **Examples:**
-- "The biggest lie you've been told about SaaS growth."
-- "The biggest lie you've been told about content marketing."
+- "The biggest lie you've been told about SaaS growth is to run more paid ads."
+- "The biggest lie you've been told about content marketing ."
 - "Work-life balance is completely wrong. Here's why."
 
 **Best for:** Contrarian takes, thought leadership, attention-grabbing content

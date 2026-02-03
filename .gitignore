@@ -26,3 +26,9 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Claude Code internal directories
+.agents/
+.codex/
+.opencode/
+.claude/

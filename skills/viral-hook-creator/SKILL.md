@@ -1,47 +1,58 @@
 ---
 name: viral-hook-creator
-version: v1.0.0
+version: v1.2.0
 description: Creates viral social media hooks using proven psychological patterns. Use when user needs attention-grabbing openings for posts, threads, videos, or content.
 ---
 
 # Viral Hook Creator
 
 ## Purpose
-Generate 5-10 viral hook options using proven psychological patterns that create curiosity, provide value, and drive engagement. Hooks are optimized for social platforms (X/Twitter, LinkedIn, Instagram, TikTok).
+Generate 3-5 viral hook options using proven psychological patterns that create curiosity, provide value, and drive engagement. Hooks are optimized for social platforms (X/Twitter, LinkedIn, Instagram, TikTok).
 
 ---
 
-## Before Task Execution
-Mandatory pre-processing and checks.
+## Execution Logic
 
-### Check for Business Context
-Before starting, check if `FOUNDER_CONTEXT.md` exists in the project root.
-- If it exists, read it and use the business context to personalize your output (industry/niche terminology, target audience pain points, brand voice and tone, company positioning and authority, key metrics/achievements).
-- If it doesn't exist, proceed without it but note that you may need to ask clarifying questions about business context.
+**Check $ARGUMENTS first to determine execution mode:**
 
-### Pre-Processing Checklist
-- Identify the content topic/theme.
-- Identify the target platform (X, LinkedIn, Instagram, TikTok, general).
-- Identify the goal (awareness, education, engagement, conversion).
-- Identify the target audience demographics and psychographics.
-- Identify available social proof (stats, achievements, research).
-- Detect missing critical information.
+### If $ARGUMENTS is empty or not provided:
+Respond with:
+"viral-hook-creator loaded, proceed with additional instructions"
 
-### Gather Information
-Ask clarifying questions **only if the information is missing or unclear**.
+Then wait for the user to provide their requirements in the next message.
 
-Possible questions include:
-- What is the main topic or message of your content?
-- Which platform is this for? (X/Twitter, LinkedIn, Instagram, TikTok, or general)
-- What's your goal? (Build awareness, educate, drive engagement, get clicks)
-- Do you have any stats, achievements, or data to reference? (e.g., "I analyzed 500 posts", "I made $100K in 30 days")
-- What emotion should this evoke? (Curiosity, urgency, inspiration, shock)
+### If $ARGUMENTS contains content:
+Proceed immediately to Task Execution (skip the "loaded" message).
 
-Rules:
-- Ask a maximum of **5 short questions**.
-- Ask only questions that block correct execution.
-- Do not ask questions if reasonable defaults can be used.
-- If assumptions are made, document them in Notes.
+---
+
+## Task Execution
+
+When user requirements are available (either from initial $ARGUMENTS or follow-up message):
+
+### 1. Check for Business Context
+Before generating hooks, check if `FOUNDER_CONTEXT.md` exists in the project root.
+- **If it exists:** Read it and use the business context to personalize your output (industry/niche terminology, target audience pain points, brand voice and tone, company positioning and authority, key metrics/achievements).
+- **If it doesn't exist:** Proceed without it, using defaults from the "Defaults & Assumptions" section.
+
+### 2. Analyze Input
+From the user's requirements, extract:
+- Content topic/theme
+- Target platform (X, LinkedIn, Instagram, TikTok, general)
+- Goal (awareness, education, engagement, conversion)
+- Target audience demographics and psychographics
+- Available social proof (stats, achievements, research)
+
+For any missing information, apply defaults from the **"Defaults & Assumptions"** section.
+
+### 3. Generate Hooks
+- Follow all **Writing Rules** (Core Rules, Pattern-Specific Rules, Platform-Specific Adaptations)
+- Create 3 hook options using different psychological patterns (or number specified by user)
+- Ensure each hook is differentiated and uses a unique pattern
+
+### 4. Format and Verify
+- Structure output according to **Output Format** section
+- Complete **Quality Checklist** self-verification
 
 ---
 
@@ -49,7 +60,7 @@ Rules:
 Hard constraints. No interpretation.
 
 ### Core Rules
-- Maximum 280 characters for X/Twitter hooks.
+- Maximum 120 characters for X/Twitter hooks.
 - Maximum 1-2 lines (40-60 characters) for video hooks.
 - Lead with the most interesting element.
 - Create a curiosity gap (promise value but withhold details).
@@ -78,95 +89,29 @@ Hard constraints. No interpretation.
 ---
 
 ## Output Format
-The output must follow this structure exactly.
+Clean and simple. Just hooks with their pattern type as a headline.
 
 ```markdown
-# Viral Hooks: [Topic/Theme]
-
-**Topic:** [Main content theme]
-**Platform:** [X/LinkedIn/Instagram/TikTok/General]
-**Goal:** [Awareness/Education/Engagement/Conversion]
-**Date:** [Current date]
-
----
-
-## Hook Options
-
-### Option 1: [Pattern Name]
+### [Pattern Name]
 [Hook text]
 
-**Pattern:** [Pattern category from references]
-**Why it works:** [Brief psychological explanation]
-**Best for:** [Platform/content type]
-
-### Option 2: [Pattern Name]
+### [Pattern Name]
 [Hook text]
 
-**Pattern:** [Pattern category]
-**Why it works:** [Brief psychological explanation]
-**Best for:** [Platform/content type]
+### [Pattern Name]
+[Hook text]
+```
 
-[Continue for 5-10 options using different patterns]
+**Example:**
+```markdown
+### Authority Credibility
+I run a 23-person software agency. Here are 5 things I would never do again.
 
----
+### Data-Driven Insight
+I analyzed 1,000 LinkedIn posts. Here are the top 5 patterns that drove engagement.
 
-## Top 3 Recommendations
-
-Based on your goal and audience, these are the strongest:
-
-1. **Option X** - [Hook text]
-   - Use this for: [Specific scenario]
-   - Why: [Reasoning based on psychology/platform/audience]
-
-2. **Option Y** - [Hook text]
-   - Use this for: [Specific scenario]
-   - Why: [Reasoning based on psychology/platform/audience]
-
-3. **Option Z** - [Hook text]
-   - Use this for: [Specific scenario]
-   - Why: [Reasoning based on psychology/platform/audience]
-
----
-
-## Testing Framework
-
-To determine which hook performs best:
-
-**A/B Test Variables:**
-- [ ] Test Option X vs Option Y on [date]
-- [ ] Track engagement rate (likes, comments, shares)
-- [ ] Track click-through rate (if applicable)
-- [ ] Monitor watch time (for video)
-- [ ] Measure conversion (if applicable)
-
-**Success Metrics:**
-- Engagement rate > [industry benchmark]%
-- Click-through rate > [industry benchmark]%
-- Share rate > [industry benchmark]%
-
-**Iterate:**
-- Top performer becomes baseline
-- Test variations of winning hook
-- Document learnings in Notes
-
----
-
-## Notes
-
-**Assumptions made:**
-- [List any assumptions about audience, platform, context]
-
-**Context used:**
-- [Reference to FOUNDER_CONTEXT.md elements used, or note if not available]
-
-**Patterns referenced:**
-- [Which hook patterns from references were applied]
-
----
-
-## Pattern Reference
-
-For pattern templates and examples, see: `references/hook-patterns.md`
+### Contrarian
+Everyone tells you to post daily. I posted 3x per week and got 10x more engagement.
 ```
 
 ---
@@ -182,9 +127,7 @@ Before finalizing, verify:
 - Each hook uses a different psychological pattern.
 - Hooks are differentiated enough to provide real options.
 - Character limits are respected for specified platform.
-- At least one contrarian/unexpected hook is included.
 - Hooks avoid overused phrases ("game changer", "secret sauce", etc.).
-- Recommendations are backed by psychological/platform rationale.
 
 ---
 
@@ -192,13 +135,12 @@ Before finalizing, verify:
 
 Use these unless overridden.
 
+- Number of hooks: 3
 - Platform: X/Twitter (most restrictive character limit).
 - Goal: Maximize engagement (likes, comments, shares).
 - Audience: General business/entrepreneurship audience.
 - Tone: Professional but conversational (matches most founders).
 - Emotion: Curiosity (safest default for viral content).
 - Format: Thread/post opener (not video hook).
-
-Document any assumptions in **Notes** section.
 
 ---

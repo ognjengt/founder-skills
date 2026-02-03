@@ -34,24 +34,45 @@ founder-skills/
    ```markdown
    ---
    name: skill-name
+   version: v1.0.0
    description: Brief description of what this skill does and when to use it.
    ---
 
    # Skill Title
 
-   ## Founder Context
-   Before starting, check if `FOUNDER_CONTEXT.md` exists in the project root.
-   If it exists, read it and use the business context to personalize your output.
-   If it doesn't exist, proceed without it but ask clarifying questions if needed.
+   ## Execution Logic
 
-   ## Purpose
-   [Detailed explanation of the skill's purpose]
+   **Check $ARGUMENTS first to determine execution mode:**
 
-   ## Instructions
-   [Step-by-step instructions for Claude]
+   ### If $ARGUMENTS is empty or not provided:
+   Respond with:
+   "skill-name loaded, proceed with additional instructions"
 
-   ## Input
-   $ARGUMENTS
+   Then wait for the user to provide their requirements in the next message.
+
+   ### If $ARGUMENTS contains content:
+   Proceed immediately to Task Execution (skip the "loaded" message).
+
+   ## Task Execution
+
+   When user requirements are available (either from initial $ARGUMENTS or follow-up message):
+
+   1. **Check for Business Context**
+      - Look for FOUNDER_CONTEXT.md in the project root
+      - If it exists, read it and use the business context to personalize your output
+      - If it doesn't exist, proceed using defaults
+
+   2. **Process Input**
+      - Extract key information from user requirements
+      - Apply defaults for any missing information
+      - Document assumptions in output
+
+   3. **Execute Task**
+      - [Specific task instructions]
+
+   4. **Format Output**
+      - Follow Output Format exactly
+      - Include verification checks
 
    ## Output Format
    [Expected output structure]
