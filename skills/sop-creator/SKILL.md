@@ -5,76 +5,66 @@ description: Creates detailed Standard Operating Procedures (SOPs) for business 
 
 # SOP Creator
 
-## Founder Context
-
-Before starting, check if `FOUNDER_CONTEXT.md` exists in the project root.
-If it exists, read it and use the business context to personalize your output (company name, brand voice, industry specifics).
-If it doesn't exist, proceed without it but ask clarifying questions about the business context if needed.
-
 ## Purpose
+Convert unstructured process descriptions into clear, step-by-step SOPs written at a 5th-grade reading level.
 
-Create comprehensive, actionable Standard Operating Procedures (SOPs) that document business processes clearly enough for any team member to follow. SOPs reduce errors, ensure consistency, and make training easier.
+---
 
-## Instructions
+## Before Task Execution
+Mandatory pre-processing and checks.
 
-When the user requests an SOP, follow these steps:
+### Check for Business Context
+Before starting, check if `FOUNDER_CONTEXT.md` exists in the project root.
+- If it exists, read it and use the business context to personalize your output (company name, brand voice, industry specifics, target audience).
+- If it doesn't exist, proceed without it but note that you may need to ask clarifying questions about business context.
 
-### 1. Gather Information
-Ask clarifying questions if needed:
+### Pre-Processing Checklist
+- Identify the exact process to be documented.
+- Identify who will perform this process (role/skill level).
+- Identify tools and systems involved.
+- Identify the end state ("done").
+- Detect missing critical information.
+
+### Gather Information
+Ask clarifying questions **only if the information is missing or unclear**.
+
+Possible questions include:
 - What process needs to be documented?
-- Who will be performing this process? (role/skill level)
+- Who will be performing this process? (role / skill level)
 - What tools or systems are involved?
 - Are there any compliance or quality requirements?
-- What's the desired outcome of this process?
+- What is the desired outcome of this process?
 
-### 2. Structure the SOP
-Create a document with these sections:
+Rules:
+- Ask a maximum of **5 short questions**.
+- Ask only questions that block correct execution.
+- Do not ask questions if reasonable defaults can be used.
+- If assumptions are made, document them in Notes.
 
-#### Header Information
-- **Title**: Clear, descriptive name of the process
-- **Version**: Start with 1.0
-- **Last Updated**: Current date
-- **Owner**: Who maintains this SOP
-- **Audience**: Who should follow this SOP
+---
 
-#### Overview
-- **Purpose**: Why this SOP exists
-- **Scope**: What this SOP covers and doesn't cover
-- **Prerequisites**: What's needed before starting
+## Writing Rules
+Hard constraints. No interpretation.
 
-#### Procedure
-- Numbered steps with clear action verbs
-- Sub-steps where needed
-- Decision points with clear criteria
-- Screenshots/diagrams placeholders where helpful
-- Warnings or notes for critical steps
+- Write at a 5th-grade reading level.
+- Use short sentences.
+- Use simple words.
+- One action per step.
+- Start each step with an action verb.
+- Avoid jargon or explain it immediately.
+- Do not add strategy or optimization.
+- Do not invent steps.
 
-#### Quality Checks
-- How to verify the process was done correctly
-- Common errors and how to avoid them
-
-#### Troubleshooting
-- Common issues and their solutions
-- When to escalate and to whom
-
-#### References
-- Related SOPs
-- Tools and systems mentioned
-- Contact information for questions
-
-### 3. Writing Guidelines
-- Use active voice and imperative mood ("Click the button" not "The button should be clicked")
-- One action per step when possible
-- Be specific about locations, names, and values
-- Include expected outcomes after key steps
-- Use consistent terminology throughout
-- Assume the reader has no prior knowledge of the process
-
-## Input
-
-$ARGUMENTS
+---
 
 ## Output Format
+The output must follow this structure exactly.
+
+**If the user provided a video:**
+- Extract relevant screenshots at key moments that illustrate important steps
+- Embed screenshots in the appropriate step using markdown image syntax: `![Description](path/to/screenshot.png)`
+- Place screenshots immediately after the instruction they illustrate
+- Name screenshots descriptively (e.g., `step-1-click-button.png`, `step-3-expected-result.png`)
 
 ```markdown
 # SOP: [Process Name]
@@ -87,69 +77,90 @@ $ARGUMENTS
 ---
 
 ## 1. Purpose
+[One sentence. What this process achieves.]
 
-[Why this process exists and what it achieves]
+## 2. Who Does This
+[Role or skill level of person performing this]
 
-## 2. Scope
+## 3. Tools You Need
+- [Tool 1]
+- [Tool 2]
+- [Access/permissions needed]
 
-**Includes:**
-- [What this SOP covers]
-
-**Excludes:**
-- [What this SOP does not cover]
-
-## 3. Prerequisites
-
+## 4. Starting Requirements
+Before you start, make sure:
 - [ ] [Requirement 1]
 - [ ] [Requirement 2]
-- [ ] [Access/permissions needed]
+- [ ] [Everything you need is ready]
 
-## 4. Procedure
+## 5. Step-by-Step Instructions
 
 ### Step 1: [Action Title]
+1. [Do this specific action]
+2. [Do this specific action]
 
-1. [Specific action]
-2. [Specific action]
-   - [Sub-step if needed]
-   - [Sub-step if needed]
+![Screenshot showing this step](path/to/screenshot.png)
 
-> **Note:** [Important information]
-
-**Expected Result:** [What should happen]
+**What you should see:** [Expected result]
 
 ### Step 2: [Action Title]
+1. [Do this specific action]
+   - [If needed, add a sub-step]
+   - [If needed, add a sub-step]
+
+**Warning:** [Important thing that could go wrong]
 
 [Continue with numbered steps...]
 
-> **Warning:** [Critical information that could cause issues]
-
-## 5. Quality Checklist
-
+## 6. Quality Check
+After finishing, check:
 - [ ] [Verification item 1]
 - [ ] [Verification item 2]
 - [ ] [Final outcome achieved]
 
-## 6. Troubleshooting
+## 7. Common Problems and Fixes
 
-| Issue | Cause | Solution |
-|-------|-------|----------|
-| [Problem] | [Why it happens] | [How to fix] |
+| Problem | Why It Happens | How to Fix |
+|---------|---------------|------------|
+| [Problem] | [Cause] | [Solution] |
+| [Problem] | [Cause] | [Solution] |
 
-## 7. References
+## 8. Notes
+[Any assumptions made. Any additional context. Who to ask for help.]
 
-- [Related SOP or document]
-- [Tool documentation]
-- [Contact for questions]
-
----
-
-**Revision History**
+## 9. Version Info
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | [Date] | [Author] | Initial version |
+| 1.0 | [Date] | [Author] | First version |
 ```
 
-## References
+---
 
-Add any additional SOP templates or examples to the `./references/` folder.
+## Quality Checklist (Self-Verification)
+Before finalizing, verify:
+
+- The output solves exactly the stated purpose.
+- All steps are required and ordered correctly.
+- No step assumes hidden knowledge.
+- The success state is explicit.
+- Language is clear and unambiguous.
+- The SOP can be followed without additional context.
+
+---
+
+## Defaults & Assumptions
+Use these unless overridden.
+
+- Audience is a beginner with no prior knowledge.
+- The process should be repeatable.
+- No system knowledge is assumed.
+
+Document any assumptions in **Notes** section.
+
+---
+
+## Related Skills
+- sop-reviewer (reviews SOPs for clarity and completeness)
+- sop-to-checklist (converts SOPs into simple checklists)
+- sop-to-training (converts SOPs into training materials)
