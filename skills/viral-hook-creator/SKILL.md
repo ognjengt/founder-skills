@@ -144,3 +144,26 @@ Use these unless overridden.
 - Format: Thread/post opener (not video hook).
 
 ---
+
+## References
+
+### Hook Pattern Library
+**IMPORTANT:** Before generating hooks, read the `./references/hook-patterns.md` file. This file contains:
+- 17 proven hook patterns with templates and examples
+- Psychology behind each pattern
+- Best use cases for different content types
+- Pattern Selection Matrix (match goal to best patterns)
+- Platform-Pattern Fit guide (which patterns work best per platform)
+
+**How to use:**
+1. Read the hook-patterns.md file to understand all available patterns
+2. Based on the user's goal and platform, consult the Pattern Selection Matrix to choose appropriate patterns
+3. Use the templates and examples as inspiration while maintaining the Writing Rules
+4. Adapt patterns to the user's specific context and business (especially if FOUNDER_CONTEXT.md exists)
+
+Example pattern selections:
+- For LinkedIn authority building → Use patterns: Authority Credibility, Analysis-Based, Achievement with Constraint
+- For X/Twitter engagement → Use patterns: Opposite/Contrarian, Data-Driven, The Unexpected
+- For Instagram quick value → Use patterns: Tools/Resources, Tiny Change, Steal My Process
+
+---
