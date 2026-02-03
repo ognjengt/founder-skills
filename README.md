@@ -49,6 +49,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | `x-writer` | Writes engaging X (Twitter) content |
 | `linkedin-writer` | Creates professional LinkedIn posts and articles |
 | `outreach-specialist` | Crafts personalized outreach messages |
+| `competitor-intel` | Analyzes competitors with verified metrics, leverage strategies, and predicted next moves |
 
 ## Usage
 
