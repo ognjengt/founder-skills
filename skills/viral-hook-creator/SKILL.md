@@ -41,7 +41,7 @@ Read: ./references/trigger_words.md
 ```
 
 **What you will find:**
-- **hook-patterns.md**: 17 proven hook patterns with templates, psychology explanations, and the Pattern Selection Matrix
+- **hook-patterns.md**: 18 proven hook patterns with templates, psychology explanations, and the Pattern Selection Matrix
 - **trigger_words.md**: Four categories of viral trigger words (Insider, Helper, Thinker, Amplifiers)
 
 **DO NOT PROCEED** to step 2 until you have read both files and have the patterns and trigger words loaded in context.
@@ -163,7 +163,7 @@ Use these unless overridden.
 
 | File | Purpose |
 |------|---------|
-| `./references/hook-patterns.md` | 17 proven hook patterns with templates, psychology, and Pattern Selection Matrix |
+| `./references/hook-patterns.md` | 18 proven hook patterns with templates, psychology, and Pattern Selection Matrix |
 | `./references/trigger_words.md` | Viral trigger word categories (Insider, Helper, Thinker, Amplifiers) |
 
 **Why both matter:** Hook patterns provide psychological structure. Trigger words amplify emotional impact. Patterns alone = good hook. Patterns + trigger words = viral hook (~10x more engagement).
@@ -177,7 +177,7 @@ Before finalizing, verify ALL of the following:
 ### Pre-Generation Check
 - [ ] I read `./references/hook-patterns.md` before generating hooks
 - [ ] I read `./references/trigger_words.md` before generating hooks
-- [ ] I have the 17 patterns and 4 trigger word categories in context
+- [ ] I have the 18 patterns and 4 trigger word categories in context
 
 ### Pattern & Structure Verification
 - [ ] Each hook uses a proven pattern from hook-patterns.md (not made-up patterns)

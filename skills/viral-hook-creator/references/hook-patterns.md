@@ -1,28 +1,29 @@
 # Viral Hook Patterns Reference
 
-This document contains 17 proven hook patterns with templates and examples. Use these as inspiration when generating hooks.
+This document contains 18 proven hook patterns with templates and examples. Use these as inspiration when generating hooks.
 
 ---
 
 ## Pattern Categories
 
 1. Proxy Learning (Study/Collect)
-2. Authority Credibility
-3. Tools/Resources List
-4. Cautionary Tale
-5. Analysis-Based Insights
-6. Achievement with Constraint
-7. Steal My Process
-8. Proxy Learning (Action-Based)
-9. Myth-Busting
-10. Reset Expectations
-11. Opposite/Contrarian
-12. Data-Driven Insights
-13. The Unexpected
-14. You're Losing
-15. Tiny Change, Big Impact
-16. Everything Wrong
-17. Less Beats More
+2. Popular Name
+3. Authority Credibility
+4. Tools/Resources List
+5. Cautionary Tale
+6. Analysis-Based Insights
+7. Achievement with Constraint
+8. Steal My Process
+9. Proxy Learning (Action-Based)
+10. Myth-Busting
+11. Reset Expectations
+12. Opposite/Contrarian
+13. Data-Driven Insights
+14. The Unexpected
+15. You're Losing
+16. Tiny Change, Big Impact
+17. Everything Wrong
+18. Less Beats More
 
 ---
 
@@ -44,7 +45,25 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 2. Authority Credibility
+## 2. Popular Name
+
+**Psychology:** Authority by association. Leveraging well-known names/brands creates instant credibility and curiosity.
+
+**Template:**
+- "[Famous person] uses this [thing] and has over [percentage] [outcome]. Today I'm sharing it for free"
+- "[Famous brand] used this [industry] strategy to secretly [action] their users"
+- "I cracked the [industry] code [prestigious group] are gatekeeping"
+
+**Examples:**
+- "Alex Hormozi uses this template and has over 80% close rate. Today I'm sharing it for free."
+- "Coca Cola used this marketing strategy to secretly dopamine spike their users."
+- "I cracked the marketing code Fortune 500 companies are gatekeeping."
+
+**Best for:** Authority borrowing, attention-grabbing openings, credibility building, curiosity hooks
+
+---
+
+## 3. Authority Credibility
 
 **Psychology:** Social proof + expertise = trust. Numbers validate authority.
 
@@ -62,7 +81,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 3. Tools/Resources List
+## 4. Tools/Resources List
 
 **Psychology:** Practical value. People love tools that save time.
 
@@ -80,7 +99,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 4. Cautionary Tale
+## 5. Cautionary Tale
 
 **Psychology:** People learn from others' mistakes. Stories create emotional connection.
 
@@ -98,7 +117,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 5. Analysis-Based Insights
+## 6. Analysis-Based Insights
 
 **Psychology:** Research = credibility. Data satisfies our need for proof.
 
@@ -116,7 +135,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 6. Achievement with Constraint
+## 7. Achievement with Constraint
 
 **Psychology:** Constraints make achievements more impressive. "How did they do it?"
 
@@ -134,7 +153,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 7. Steal My Process
+## 8. Steal My Process
 
 **Psychology:** People want proven systems they can copy. "Steal" implies exclusivity.
 
@@ -152,7 +171,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 8. Proxy Learning (Action-Based)
+## 9. Proxy Learning (Action-Based)
 
 **Psychology:** Vicarious learning. "I took the risk so you can learn safely."
 
@@ -170,7 +189,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 9. Myth-Busting
+## 10. Myth-Busting
 
 **Psychology:** Contrarian views grab attention. People love being "in the know."
 
@@ -188,7 +207,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 10. Reset Expectations
+## 11. Reset Expectations
 
 **Psychology:** "Clean slate" thinking. Permission to start fresh.
 
@@ -206,7 +225,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 11. Opposite/Contrarian
+## 12. Opposite/Contrarian
 
 **Psychology:** Cognitive dissonance creates curiosity. "Wait, what?"
 
@@ -224,7 +243,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 12. Data-Driven Insights
+## 13. Data-Driven Insights
 
 **Psychology:** Numbers feel objective and trustworthy. Surprising data creates curiosity.
 
@@ -242,7 +261,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 13. The Unexpected
+## 14. The Unexpected
 
 **Psychology:** Pattern interruption. Finding uncommon threads creates insight.
 
@@ -260,7 +279,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 14. You're Losing
+## 15. You're Losing
 
 **Psychology:** Loss aversion is powerful. Fear of missing out drives action.
 
@@ -278,7 +297,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 15. Tiny Change, Big Impact
+## 16. Tiny Change, Big Impact
 
 **Psychology:** Small actions feel achievable. Disproportionate results create curiosity.
 
@@ -296,7 +315,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 16. Everything Wrong
+## 17. Everything Wrong
 
 **Psychology:** Challenge assumptions. Comprehensive problem identification creates trust.
 
@@ -314,7 +333,7 @@ This document contains 17 proven hook patterns with templates and examples. Use 
 
 ---
 
-## 17. Less Beats More
+## 18. Less Beats More
 
 **Psychology:** Simplification is appealing. "Doing less" feels counterintuitive and interesting.
 

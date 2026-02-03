@@ -40,6 +40,11 @@ founder-skills/
 
    # Skill Title
 
+   ## Purpose
+   One sentence. One outcome. No context.
+
+   ---
+
    ## Execution Logic
 
    **Check $ARGUMENTS first to determine execution mode:**
@@ -53,32 +58,117 @@ founder-skills/
    ### If $ARGUMENTS contains content:
    Proceed immediately to Task Execution (skip the "loaded" message).
 
+   ---
+
    ## Task Execution
 
    When user requirements are available (either from initial $ARGUMENTS or follow-up message):
 
-   1. **Check for Business Context**
-      - Look for FOUNDER_CONTEXT.md in the project root
-      - If it exists, read it and use the business context to personalize your output
-      - If it doesn't exist, proceed using defaults
+   ### 1. MANDATORY: Read Reference Files FIRST
+   **BLOCKING REQUIREMENT — DO NOT SKIP THIS STEP**
 
-   2. **Process Input**
-      - Extract key information from user requirements
-      - Apply defaults for any missing information
-      - Document assumptions in output
+   Before doing ANYTHING else, you MUST use the Read tool to read every file
+   in `./references/`. This is non-negotiable.
 
-   3. **Execute Task**
-      - [Specific task instructions]
+   **DO NOT PROCEED** to Step 2 until you have read all reference files and have their content in context.
 
-   4. **Format Output**
-      - Follow Output Format exactly
-      - Include verification checks
+   ### 2. Check for Business Context
+   Check if `FOUNDER_CONTEXT.md` exists in the project root.
+   - **If it exists:** Read it and use the business context to personalize
+     your output (company name, brand voice, industry specifics, audience).
+   - **If it doesn't exist:** Proceed using defaults from
+     "Defaults & Assumptions".
+
+   ### 3. Analyze Input
+   From the user's requirements, extract:
+   - [Key variable 1]
+   - [Key variable 2]
+   - [Key variable 3]
+
+   For any missing information, apply defaults from **Defaults & Assumptions**.
+
+   ### 4. Execute Task
+   Using the data you read in Step 1:
+   - [Core action 1 — tie back to specific reference file content]
+   - [Core action 2]
+   - Follow all Writing Rules below
+   - [Skill-specific constraints]
+
+   ### 5. Format and Verify
+   - Structure output according to **Output Format** section
+   - Complete **Quality Checklist** self-verification before presenting output
+
+   ---
+
+   ## Writing Rules
+   Hard constraints. No interpretation.
+
+   ### Core Rules
+   - [Rule 1]
+   - [Rule 2]
+   - [Rule 3]
+
+   ### Task-Specific Rules
+   - [Rules that apply only in certain conditions within this skill]
+
+   ### Context-Specific Rules
+   - [Rules that change based on audience, platform, tone, etc.]
+
+   ---
 
    ## Output Format
-   [Expected output structure]
+   [Expected output structure — use a concrete example, not just labels]
+
+   **Example:**
+   [A filled-in example showing what good output looks like]
+
+   ---
 
    ## References
-   [Links to files in ./references/ if applicable]
+
+   **These files MUST be read using the Read tool before task execution
+   (see Step 1):**
+
+   | File | Purpose |
+   |------|---------|
+   | `./references/[file-1].md` | [What it contains] |
+   | `./references/[file-2].md` | [What it contains] |
+
+   **Why these matter:** [One sentence on how the reference files connect
+   to produce better output — not optional boilerplate, but the actual reason.]
+
+   ---
+
+   ## Quality Checklist (Self-Verification)
+   Before finalizing output, verify ALL of the following:
+
+   ### Pre-Execution Check
+   - [ ] I read all reference files before starting
+   - [ ] I have the reference content in context
+
+   ### Execution Check
+   - [ ] Output uses data/patterns from the reference files (not invented)
+   - [ ] Each [unit of output] is distinct (no repetition)
+   - [ ] Writing Rules are followed throughout
+
+   ### Output Check
+   - [ ] Output matches the Output Format exactly
+   - [ ] Defaults were applied correctly for any missing input
+   - [ ] Output solves exactly what the user asked for
+
+   **If ANY check fails → revise before presenting.**
+
+   ---
+
+   ## Defaults & Assumptions
+   Use these unless the user overrides. Be specific — list concrete values,
+   not vague categories.
+
+   - [Default 1: concrete value]
+   - [Default 2: concrete value]
+   - [Default 3: concrete value]
+
+   Document any assumptions made in the output.
    ```
 
 3. Update `marketplace.json` to include the new skill in the skills array.
