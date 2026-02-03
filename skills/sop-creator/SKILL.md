@@ -1,5 +1,6 @@
 ---
 name: sop-creator
+version: v1.0.0
 description: Creates detailed Standard Operating Procedures (SOPs) for business processes. Use when user needs SOPs, process documentation, operational guides, or workflow documentation.
 ---
 
