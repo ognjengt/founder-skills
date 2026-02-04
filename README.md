@@ -42,7 +42,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | Skill | Description |
 |-------|-------------|
 | `sop-creator` | Creates detailed Standard Operating Procedures for business processes |
-| `cro-optimizer` | Conversion rate optimization analysis and recommendations |
+| `cro-optimization` | Analyzes landing pages against 13 CRO principles and provides detailed optimization recommendations with before/after examples |
 | `viral-hook-creator` | Creates viral hooks for content and marketing |
 | `lead-magnet-generator` | Generates lead magnet ideas and content |
 | `strategic-planning` | Strategic business planning and roadmapping |
