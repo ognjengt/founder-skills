@@ -50,6 +50,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | `linkedin-writer` | Creates professional LinkedIn posts and articles |
 | `outreach-specialist` | Crafts personalized outreach messages |
 | `competitor-intel` | Analyzes competitors with verified metrics, leverage strategies, and predicted next moves |
+| `brand-copywriter` | Writes marketing copy using proven frameworks (AIDA, PAS, BAB, etc.) for ads, landing pages, emails, and more |
 
 ## Usage
 
