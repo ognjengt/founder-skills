@@ -52,6 +52,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | `competitor-intel` | Analyzes competitors with verified metrics, leverage strategies, and predicted next moves |
 | `brand-copywriter` | Writes marketing copy using proven frameworks (AIDA, PAS, BAB, etc.) for ads, landing pages, emails, and more |
 | `pricing-strategist` | Builds comprehensive pricing strategies with tiered plans, price justifications, and revenue optimization through interactive Q&A |
+| `prd-generator` | Generates professional PRD documents optimized for AI coding tools — asks clarifying questions and outputs PDF to `./prd_outputs/` |
 
 ## Usage
 
