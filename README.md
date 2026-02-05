@@ -44,7 +44,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | `sop-creator` | Creates detailed Standard Operating Procedures for business processes |
 | `cro-optimization` | Analyzes landing pages against 13 CRO principles and provides detailed optimization recommendations with before/after examples |
 | `viral-hook-creator` | Creates viral hooks for content and marketing |
-| `lead-magnet-generator` | Generates lead magnet ideas and content |
+| `lead-magnet-generator` | Creates viral lead magnet posts with CTAs that drive comments and DMs — produces quick and detailed formats for Twitter/X and LinkedIn |
 | `strategic-planning` | Strategic business planning and roadmapping |
 | `x-writer` | Writes engaging X (Twitter) content |
 | `linkedin-writer` | Creates professional LinkedIn posts and articles |
