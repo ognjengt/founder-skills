@@ -1172,6 +1172,92 @@ This database contains proven marketing strategies organized by goal. Each idea 
 - **Works on:** Any product with a free trial. SaaS, platforms, apps.
 - **Why it works:** Gamification turns a deadline into a challenge. Users who earn extra days feel they've invested more effort, increasing their switching cost. The actions they complete (inviting friends, filling profile) also increase the chance of conversion.
 
+### Idea #161
+- **Title:** The Endowed Progress Effect
+- **Strategy:** Give users a head start on any progress-based flow. When they create an account, immediately show 20% completion so they feel they've already made progress toward the goal.
+- **Example:** It's scientifically proven that individuals exhibit greater motivation to complete a task when they perceive they've already made some progress. Showing "20% completed — account created!" drives users to finish onboarding.
+- **Works on:** Onboarding flows, profile completion, setup wizards, any multi-step process.
+- **Why it works:** The endowed progress effect — people are more motivated to complete a task when they believe they've already started. A pre-filled progress bar creates momentum from the first interaction.
+
+### Idea #162
+- **Title:** Buy a .new Domain Suffix
+- **Strategy:** Purchase a .new domain for your product that instantly creates a new document, project, or workspace when visited. Remove all friction between intent and action.
+- **Example:** docs.new instantly creates a new Google Doc. repo.new creates a new GitHub repo. The .new suffix turns your URL into a one-click shortcut that users memorize and use daily.
+- **Works on:** Productivity tools, document editors, design tools, any product where users frequently create new items.
+- **Why it works:** Zero friction. Users don't navigate menus or dashboards — they type a URL and start working. The shortcut becomes muscle memory, deeply embedding your product into their workflow.
+
+### Idea #163
+- **Title:** Add a Testimonial Wall on High-Intent Pages
+- **Strategy:** Place a wall of customer testimonials directly on pages with the highest conversion intent — sign-up pages, checkout pages, pricing pages. Reinforce the decision right when motivation peaks.
+- **Example:** Senja added a wall of testimonials on their sign-up page, reinforcing the sign-up decision at the exact moment where sign-up intent is highest.
+- **Works on:** Sign-up pages, checkout pages, pricing pages, demo request forms.
+- **Why it works:** Social proof is most effective at the point of decision. A testimonial wall at the moment of highest intent neutralizes last-second doubt and validates the user's choice.
+
+---
+
+## Category: Customer Sharing & Virality
+
+### Idea #164
+- **Title:** Non-Authenticated Sharing
+- **Strategy:** Allow people to view shared content from your product without needing to create an account. Remove the signup wall from shared links so recipients experience value with zero friction.
+- **Example:** Loom lets anyone watch shared videos without creating an account. Airtable allows viewing shared tables without signing up. People discover the product naturally when someone sends them a link.
+- **Works on:** Any product where users share outputs — videos, documents, dashboards, tables, designs.
+- **Why it works:** Every signup requirement on a shared link kills virality. Removing it means 100% of recipients see the content. Once they see value, they sign up to create their own.
+
+### Idea #165
+- **Title:** Year in Review
+- **Strategy:** Pull user activity data from your database throughout the year and present it in a visually engaging Year in Review experience. Showcase surprising or impressive stats that make users want to share.
+- **Example:** Spotify Wrapped shows minutes listened and top genres. Todoist shows your most productive day of the week. These become viral social media moments because users share their personal stats as a form of self-expression.
+- **Works on:** Any product that tracks user activity over time. SaaS, apps, platforms, services.
+- **Why it works:** Users share Year in Review stats as identity signals ("look how productive I am"). Each share is organic product marketing. The annual ritual creates anticipation and reinforces the product's role in the user's life.
+
+---
+
+## Category: Buzz Generation (One-Time Stunts)
+
+### Idea #166
+- **Title:** Break My App Challenge
+- **Strategy:** Run a public campaign challenging users to try to break your app. Offer gifts or prizes to anyone who succeeds. Even if they crash your site for a few hours, the exposure and virality will be worth it.
+- **Example:** Rows.com ran a #BreakTheAnalyst campaign challenging users to break their AI analyst feature. People jumped in to try it, generating massive organic engagement and awareness.
+- **Works on:** Tech products, SaaS, any product with a feature robust enough to challenge users. Best for products with a playful brand.
+- **Why it works:** Challenges trigger competitive instincts. People share their attempts (successful or not) on social media. The campaign frames your product as confident and transparent — you're so sure it works that you dare people to break it.
+
+---
+
+## Category: Acquisition
+
+### Idea #167
+- **Title:** Engineering As Marketing
+- **Strategy:** Build a free, standalone mini-app on its own domain that solves a single problem without requiring authentication. The mini-app provides immediate value and naturally drives users toward your main product.
+- **Example:** A SaaS company creates "Free Cold Email Generator" as a standalone tool. Users get value instantly, discover the parent product, and convert because they've already experienced the quality of what you build.
+- **Works on:** SaaS, developer tools, marketing tools, any product where a core feature can be extracted into a useful standalone tool.
+- **Why it works:** Free tools generate organic traffic and backlinks. Users who experience value from a free tool trust the paid product. The mini-app serves as a permanent top-of-funnel acquisition channel.
+
+### Idea #168
+- **Title:** Job-to-be-Done Templates
+- **Strategy:** Instead of leading users to a landing page, lead them directly into the product with ready-made templates that solve specific problems. Create SEO-optimized template pages that let users start getting things done immediately.
+- **Example:** Canva nailed this with ready-made templates for any design need. Rows.com leads users directly into the product instead of a landing page, meaning they immediately start solving problems instead of reading about solutions.
+- **Works on:** Design tools, spreadsheet tools, document editors, project management, any product that supports templates or starting points.
+- **Why it works:** The Job-to-be-Done framework — users don't want your product, they want their problem solved. Templates are the shortest path from problem to solution. Each template page also ranks for long-tail search keywords.
+
+---
+
+## Category: Retention
+
+### Idea #169
+- **Title:** Community-Led Growth
+- **Strategy:** Create communities (Reddit, Discord, forums) where users share their pain points, solutions, and templates built on your platform. Let users bond with each other and with your product organically.
+- **Example:** Reddit communities and Discord servers centered around products create organic knowledge bases and support networks. Users help each other, share templates, and build loyalty that no marketing campaign can replicate.
+- **Works on:** SaaS, platforms, developer tools, any product with an active user base. Best for growth-stage and mature products — less effective for very early-stage.
+- **Why it works:** Community creates switching costs that go beyond the product. Users don't just lose a tool when they leave — they lose their community, their reputation, and the relationships they've built.
+
+### Idea #170
+- **Title:** Send Physical Gifts for Milestones
+- **Strategy:** Send physical gifts when users reach significant usage milestones. Make the milestones big enough to feel earned and the gifts impressive enough to be shared on social media.
+- **Example:** OpenAI sends trophies when developers pass 10 billion API tokens. YouTube sends play buttons at subscriber milestones. The physical gift becomes a status symbol that users proudly display and share.
+- **Works on:** SaaS with measurable usage, platforms with creator metrics, any product where users hit quantifiable milestones.
+- **Why it works:** Physical gifts in a digital world stand out. They create emotional moments that users photograph and share. Each shared gift is organic social proof and aspirational content that motivates other users.
+
 ---
 
 ## How to Add New Ideas
@@ -1179,7 +1265,7 @@ This database contains proven marketing strategies organized by goal. Each idea 
 To add new marketing ideas to this database:
 
 1. Find the appropriate category (or create a new one at the bottom).
-2. Use the next sequential ID number (after #160, the next is #161).
+2. Use the next sequential ID number (after #170, the next is #171).
 3. Follow this exact format:
 
 ```markdown
