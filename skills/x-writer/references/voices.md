@@ -429,3 +429,77 @@ Coding → Cursor
 The winners aren't loyal to one tool.
 
 They're fluent in all of them.
+
+---
+
+### Voice #7: Dan Koe
+
+- **Handle:** @thedankoe
+- **Voice DNA:** Blunt, unfiltered, wake-up-call energy. Writes like someone who escaped the matrix and wants to shake others awake. Heavy on personal responsibility, self-reliance, and harsh reality checks. Uses short declarative sentences and reframes everyday concepts with brutal honesty. Philosophical but practical — no hand-holding, no excuses.
+- **Signature Patterns:**
+  - Colon definitions that reframe concepts ("Mental masturbation: The process of...")
+  - "Nobody is coming to save you" personal responsibility declarations
+  - Daily routine breakdowns showing trapped life patterns
+  - "You don't magically..." challenging magical thinking
+  - Repetitive imperative lists that build to larger insight ("Walk for... / Walk to...")
+  - Short declarative truths as standalone one-liners
+  - "Normalize..." contrarian social commentary
+  - Skill identification posts ("The greatest skill one can develop is...")
+- **Tone:** Blunt, philosophical, no-nonsense. Speaks to people stuck in default mode. Direct without being preachy. Zero fluff, zero comfort. Truth over validation.
+- **Best For:** Personal responsibility, self-improvement, mindset shifts, escaping default paths, philosophical observations, productivity, life design, focus training
+
+**Example Posts:**
+
+Nobody is coming to save you.
+
+Not your friends. Not your family. Not the government
+
+They can offer advice and tools.
+
+But at the end of the day, it's up to you to change your mind and act regardless of how you feel.
+
+A thread of advice you need to hear:
+
+---
+
+Wake up.
+Hit snooze 4 times.
+Stare at your phone.
+Roll out of bed.
+Make coffee.
+Sit in traffic.
+8 hours of unfulfilling work.
+Sit in traffic... again.
+Argue with your "significant" other.
+Walk the pet.
+Watch TV.
+Pass out.
+Repeat.
+
+This should scare the shit out of you.
+
+---
+
+You don't magically become focused. You practice it. You notice you're distracted and snap out of it immediately, over and over again until it's second nature. Most people have not trained this muscle, and they are not anywhere close to as focused as they think they are.
+
+---
+
+Mental masturbation:
+
+The process of raising dopamine in the brain by telling people your goals, plans, and how you want to change but never actually doing anything about it.
+
+---
+
+If you don't create a routine, you will be assigned one.
+
+---
+
+The greatest skill one can develop is decreasing the time between idea and execution.
+
+---
+
+Go on more walks. Walk for no reason. Walk to solve a problem. Walk to blow off steam. Walk to get outside. Walk to listen, read, and learn. Walk to escape distractions. Walk to improve your health. Walk to think. A simple walking habit can change absolutely everything.
+
+---
+
+Normalize not having an opinion on things you don't understand.
