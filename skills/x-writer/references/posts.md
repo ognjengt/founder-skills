@@ -1,3 +1,74 @@
+# X Post Library
+
+Proven viral posts organized by format type. Use these as templates and inspiration — study the structure, rhythm, and tone, then adapt to your topic.
+
+## How to Add New Posts
+
+1. Find the format section that matches your post
+2. Use the next sequential number after the last post in that section
+3. Paste the full post text exactly as it should appear on X
+4. Separate with `---`
+
+---
+
+## One-Liner
+
+### Post #1
+
+Sometimes the best way to validate your startup idea is to trust your gut.
+
+---
+
+### Post #2
+
+If your product isn't a Sunday night pain reliever, then you're just a vitamin people use occasionally.
+
+---
+
+### Post #3
+
+The ones who are winning with AI are spending 90% of their time crafting prompts instead of going back & forth with Claude in their terminals.
+
+---
+
+### Post #4
+
+The last 20% activates the past 80%.
+
+---
+
+### Post #5
+
+coffee + do not disturb will solve 90% of your productivity issues
+
+---
+
+### Post #6
+
+Most businesses don't run out of money. The founders run out of will.
+
+---
+
+## Two-Part Punch
+
+### Post #7
+
+A few sentences in plain English can build your next $1M ARR business.
+
+Yet, people are still overcomplicating it.
+
+---
+
+### Post #8
+
+Your MVP doesn't have to be good.
+
+It has to be good enough.
+
+---
+
+### Post #9
+
 It took me 6 years to reach a level where I'm at right now.
 
 Yet people see my posts and think it happened overnight.
@@ -6,63 +77,48 @@ Learn to endure and you'll win.
 
 ---
 
-Watching doesn't make you an entrepreneur
-Tweeting doesn't make you an entrepreneur
-Ideating doesn't make you an entrepreneur
+### Post #10
 
-Only taking action does.
+Don't stop trying because it didn't work.
 
----
-
-Founders who fail, build a SaaS to make money
-
-Founders who win, build a SaaS to solve problems
+It never works the first time.
 
 ---
 
-Have a $0 marketing budget?
+## Numbered List
 
-I got you.
+### Post #11
 
-- Post on X
-- Post on Reddit
-- Post on LinkedIn
-- Send cold emails
-- Become an affiliate
-- Implement referrals
-- Launch on Product Hunt
+7 ways to get your first 100 users:
 
-So many ways to scale without ads or SEO.
+1) Referrals
+2) Lifetime Deals
+3) Lead Magnets
+4) Paid Ads & SEO
+5) Niche Communities
+6) Influencer Marketing
+7) Product Hunt Launch
 
-Yet, people still think they need $5k to start.
-
----
-
-2021: "This will never work"
-2022: "This will never work"
-2023: "This will never work"
-2024: "This will never work"
-2025: $100k/mo agency
-
-The key is to be delusional enough to believe in yourself.
+Implement all 7 and you'll grow like crazy.
 
 ---
 
-At some point:
+### Post #12
 
-Bill Gates had to leave the dorm.
-Steve Jobs had to leave the garage.
-Jeff Bezos had to leave the bookstore.
+The 6 skills every founder must master:
 
-Start distributing your product.
+1. Build — Ship fast, learn even faster
+2. Sell — Turn users into paying fans
+3. Market — Capture attention, own the narrative
+4. Survive — Outlast when others give up
+5. Hire — Recruit killers, not fillers
+6. Lead — Set the vision, keep the fire alive
+
+Master these or get crushed by someone who did.
 
 ---
 
-The last 20% brings the past 80% in action.
-
-The last 20% activates the past 80%.
-
----
+### Post #13
 
 What makes an app legit
 (not just a side project)?
@@ -85,25 +141,7 @@ Remember, Your app is a business
 
 ---
 
-The faster you ship.
-
-The faster you learn.
-
-The faster you improve.
-
-The faster you find PMF.
-
-Speed wins with startups.
-
----
-
-$1k/mo:
-"How can I do more?"
-
-$10k/mo:
-"How can I do less but better?
-
----
+### Post #14
 
 When to test pricing:
 
@@ -120,6 +158,182 @@ The perfect time doesn't exist.
 Start building today.
 
 ---
+
+### Post #15
+
+These 17 B2C app pains will
+never go out of business:
+
+– Can't focus
+– Can't sleep
+– Can't lose weight
+– Boosting testosterone
+– Social anxiety
+– Dieting
+– Debt
+– No time
+– love life
+– Corn use
+– Phone addiction
+– Fitness motivation
+– Hair loss
+– Skin health
+– Fitness
+– Mental Health
+– Building better habits
+
+---
+
+### Post #16
+
+Best subreddits for Founders in 2025:
+
+r/InternetIsBeautiful (17M)
+r/Entrepreneur (4.8M)
+r/productivity (4M)
+r/business (2.5M)
+r/smallbusiness (2.2M)
+r/startups (1.8M)
+r/EntrepreneurRideAlong (593K)
+r/SideProject (430K)
+r/Business_Ideas (359K)
+r/SaaS (341K)
+r/thesidehustle (184K)
+r/ycombinator (132K)
+r/indiehackers (91K)
+r/MicroSaas (80K)
+r/GrowthHacking (77K)
+r/growmybusiness (63K)
+r/vibecoding (35K)
+r/AlphaandBetaUsers (21K)
+
+Use them to get the first users for free.
+
+---
+
+### Post #17
+
+I've built and scaled SaaS MVPs to $10,000,000 ARR.
+
+If I had a working SaaS MVP today, this is how I'd get to my first $1k MRR:
+
+- Build in public
+- Email users early
+- Use Reddit for distribution
+- Launch on Product Hunt
+- Offer early lifetime deals
+- DM relentlessly
+- Add affiliates
+
+Simple, not easy.
+
+---
+
+### Post #18
+
+If I had to start from scratch, here's the game plan I'd follow to get to my first $1k in 30 days:
+
+1) Redesign 1 landing page for an existing company every day
+2) Post it to your socials
+3) Tag the company
+
+Do this for 30 consecutive days and I guarantee you'll gain traction.
+
+---
+
+## Stacked Progression
+
+### Post #19
+
+"Once I graduate"
+"Once I find my partner"
+"Once I make my first $5k"
+"Once my business takes off"
+
+There's no better time than now.
+
+---
+
+### Post #20
+
+Have a $0 marketing budget?
+
+I got you.
+
+- Post on X
+- Post on Reddit
+- Post on LinkedIn
+- Send cold emails
+- Become an affiliate
+- Implement referrals
+- Launch on Product Hunt
+
+So many ways to scale without ads or SEO.
+
+Yet, people still think they need $5k to start.
+
+---
+
+### Post #21
+
+I wrote my first tweet 19 months ago.
+I got my first client 18 months ago.
+I hit $10,000/mo 12 months ago.
+All it takes is just one tweet.
+You just need to start.
+And keep going.
+
+---
+
+### Post #22
+
+Watching doesn't make you an entrepreneur
+Tweeting doesn't make you an entrepreneur
+Ideating doesn't make you an entrepreneur
+
+Only taking action does.
+
+---
+
+### Post #23
+
+2021: "This will never work"
+2022: "This will never work"
+2023: "This will never work"
+2024: "This will never work"
+2025: $100k/mo agency
+
+The key is to be delusional enough to believe in yourself.
+
+---
+
+### Post #24
+
+At some point:
+
+Bill Gates had to leave the dorm.
+Steve Jobs had to leave the garage.
+Jeff Bezos had to leave the bookstore.
+
+Start distributing your product.
+
+---
+
+### Post #25
+
+The faster you ship.
+
+The faster you learn.
+
+The faster you improve.
+
+The faster you find PMF.
+
+Speed wins with startups.
+
+---
+
+### Post #26
 
 Build.
 
@@ -139,7 +353,196 @@ Just build.
 
 ---
 
-If you’re building a collab-based SaaS, always name it so that it can be used as a verb:
+### Post #27
+
+Stack cash.
+
+Delay gratification.
+
+Never get comfortable.
+
+Make more money.
+
+Become undeniable.
+
+Invest in yourself.
+
+Outwork everyone.
+
+Become reliable.
+
+Have uncomfortable conversations
+
+Go beyond where others would.
+
+In the next 5 years, you'll be glad you did.
+
+---
+
+## Comparison (This vs That)
+
+### Post #28
+
+1st time SaaS founder:
+
+- Builds for 8 months
+- Tweaks the landing page for 2 months
+- "Maybe this logo color would work better"
+
+2nd time SaaS founder:
+
+- Thinks in weeks, not months
+- 80% marketing, 20% building
+- "I only have 100 people signed up, I still need more validation"
+
+Think like the 2nd founder.
+
+---
+
+### Post #29
+
+Your SaaS startup:
+
+2023 - Planning
+2024 - Planning
+2025 - Planning
+2026 - Building
+
+Your competitor's SaaS startup:
+
+2023 - Building
+2024 - Failing
+2025 - Reiterating
+2026 - $5M Seed round
+
+---
+
+### Post #30
+
+Startup founders that are forever stuck:
+
+Research ➡️ Research ➡️ Research ➡️ "This won't work"
+
+Startup founders that print $$$:
+
+Research ➡️ Execute ➡️ Feedback ➡️ "I need to pivot"
+
+---
+
+### Post #31
+
+Non-tech SaaS founders who print $$$: I need 1 engineer, I'll figure the rest myself.
+
+Non-tech SaaS founders who are forever stuck: I need a UI expert, team of 5 engineers, 3 sales guys & 10 grams of shrooms to figure out the idea first, let's get it!
+
+---
+
+### Post #32
+
+Founders who fail, build a SaaS to make money
+
+Founders who win, build a SaaS to solve problems
+
+---
+
+### Post #33
+
+$1k/mo:
+"How can I do more?"
+
+$10k/mo:
+"How can I do less but better?
+
+---
+
+### Post #34
+
+Me validating a SaaS in 2018:
+
+- Spend 20 hours browsing Google & Quora
+- Manage 7 Google Docs
+- "Is it really worth building this?"
+
+Me building a SaaS in 2025:
+
+- Generate a prototype in Lovable
+- Post it to X
+- See if it sticks
+
+So many opportunities.
+
+---
+
+## Example + Takeaway
+
+### Post #35
+
+The best SaaS growth loop:
+
+→ show wins or stats
+→ make it shareable
+→ let users flex it
+
+Spotify Wrapped is a great example.
+
+Let your users brag about their progress.
+
+---
+
+### Post #36
+
+You don't need a better feature.
+
+You need a better default.
+
+Figma.
+Airtable.
+Superhuman.
+
+
+All grew because the first experience was delightful.
+
+Not because they had 50 cool features.
+
+---
+
+### Post #37
+
+SaaS Onboarding trick:
+
+1) Add a checklist
+2) Tick the first one
+3) Put the user at a 20% head start
+
+Example:
+
+✅ Step 1: Create your account (already done!)
+⬜ Step 2: Add your profile photo
+⬜ Step 3: Invite your team
+
+Give your users a head start.
+
+Proven to boost conversions.
+
+---
+
+### Post #38
+
+Beehiiv solves newsletters
+Notion solves productivity
+Asana solves collaboration
+Calendly solves scheduling
+Slack solves communication
+
+Your product?
+
+That's the real question you should be answering.
+
+---
+
+### Post #39
+
+If you're building a collab-based SaaS, always name it so that it can be used as a verb:
 
 "I'll Slack you"
 "I'll Loom you"
@@ -149,28 +552,7 @@ Easy to catch on & go viral.
 
 ---
 
-These 17 B2C app pains will
-never go out of business:
-
-– Can’t focus
-– Can’t sleep
-– Can’t lose weight
-– Boosting testosterone
-– Social anxiety
-– Dieting
-– Debt
-– No time
-– love life
-– Corn use
-– Phone addiction
-– Fitness motivation
-– Hair loss
-– Skin health
-– Fitness
-– Mental Health
-– Building better habits
-
----
+### Post #40
 
 Calendly = basic scheduler
 
@@ -214,44 +596,7 @@ Basecamp = basic to‑dos & messaging
 
 ---
 
-Stack cash.
-
-Delay gratification.
-
-Never get comfortable.
-
-Make more money.
-
-Become undeniable.
-
-Invest in yourself.
-
-Outwork everyone.
-
-Become reliable.
-
-Have uncomfortable conversations
-
-Go beyond where others would.
-
-In the next 5 years, you’ll be glad you did.
-
----
-Me validating a SaaS in 2018:
-
-- Spend 20 hours browsing Google & Quora
-- Manage 7 Google Docs
-- "Is it really worth building this?"
-
-Me building a SaaS in 2025:
-
-- Generate a prototype in Lovable
-- Post it to X
-- See if it sticks
-
-So many opportunities.
-
----
+### Post #41
 
 Here's the strategy that can help your product go viral overnight:
 
@@ -267,6 +612,8 @@ Reduce friction.
 
 ---
 
+### Post #42
+
 Netflix started as a DVD rental
 Mailchimp was an email plugin
 Amazon was an online bookstore
@@ -279,52 +626,9 @@ Just ship your MVP.
 
 ---
 
-coffee + do not disturb will solve 90% of your productivity issues
+### Post #43
 
----
-
-Best subreddits for Founders in 2025:
-
-r/InternetIsBeautiful (17M)
-r/Entrepreneur (4.8M)
-r/productivity (4M)
-r/business (2.5M)
-r/smallbusiness (2.2M)
-r/startups (1.8M)
-r/EntrepreneurRideAlong (593K)
-r/SideProject (430K)
-r/Business_Ideas (359K)
-r/SaaS (341K)
-r/thesidehustle (184K)
-r/ycombinator (132K)
-r/indiehackers (91K)
-r/MicroSaas (80K)
-r/GrowthHacking (77K)
-r/growmybusiness (63K)
-r/vibecoding (35K)
-r/AlphaandBetaUsers (21K)
-
-Use them to get the first users for free.
-
----
-
-I’ve built and scaled SaaS MVPs to $10,000,000 ARR.
-
-If I had a working SaaS MVP today, this is how I’d get to my first $1k MRR:
-
-- Build in public
-- Email users early
-- Use Reddit for distribution
-- Launch on Product Hunt
-- Offer early lifetime deals
-- DM relentlessly
-- Add affiliates
-
-Simple, not easy.
-
----
-
-The biggest lie you’ve been told about AI tools is that one is better than the other.
+The biggest lie you've been told about AI tools is that one is better than the other.
 
 In reality you should learn how to use them in sync.
 
@@ -334,26 +638,72 @@ In reality you should learn how to use them in sync.
 → Gemini for image generation
 → Cursor for coding
 
-Master all 5 and you’ll become unstoppable.
+Master all 5 and you'll become unstoppable.
 
 ---
 
-Most businesses don’t run out of money. The founders run out of will.
+### Post #44
+
+Best Co-founders of 2025:
+
+- Perplexity
+- ChatGPT
+- Gemini
+- Claude
+
+Best part?
+
+They ask for 0% equity!
 
 ---
 
-Don’t stop trying because it didn’t work. 
+## Reverse Advice
 
-It never works the first time.
+### Post #45
+
+How to burnout in your SaaS development 101:
+
+Ignore customer feedback
+Push new updates without testing
+Don't track who is interested in your product
+Forget about your personal life, your startup needs you 24/7
+Keep adding fancy features and avoiding the work on the core ones
+Skip writing documentation, who needs that anyway?
+Don't delegate, you know everything best right?
+Add a few more meetings to your calendar
+Always add new tech stacks
+Don't work async
 
 ---
 
-If I had to start from scratch, here's the game plan I'd follow to get to my first $1k in 30 days:
+## Humor
 
-1) Redesign 1 landing page for an existing company every day
-2) Post it to your socials
-3) Tag the company
+### Post #46
 
-Do this for 30 consecutive days and I guarantee you'll gain traction.
+Hear me out:
+
+A battle royale of 100 SaaS founders.
+
+Winner gets to keep all SaaS-es to himself.
 
 ---
+
+### Post #47
+
+"We need boots on the ground."
+
+Chill out Karen, you're attending a conference, not running a raid on Bin Laden.
+
+---
+
+### Post #48
+
+Too many job postings putting "chronically online".
+
+Bro just say you're looking for a cracked engineer.
+
+---
+
+### Post #49
+
+If you ever feel useless, just remember that a literal rock is writing your code.

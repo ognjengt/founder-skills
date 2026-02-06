@@ -47,7 +47,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | `lead-magnet-generator` | Creates viral lead magnet posts with CTAs that drive comments and DMs — produces quick and detailed formats for Twitter/X and LinkedIn |
 | `strategic-planning` | Analyzes your business to deliver 3 specific, high-impact next moves for growth (marketing/sales) — asks diagnostic questions when needed to uncover bottlenecks and opportunities |
 | `go-to-market-plan` | Delivers 3 best go-to-market strategies tailored to your product, stage, and market — asks diagnostic questions about product readiness, ICP, competitive positioning, and distribution channels |
-| `x-writer` | Writes engaging X (Twitter) content |
+| `x-writer` | Creates 3 viral X (Twitter) posts in different proven formats with creator voice matching (Hormozi, Naval, Gazdecki) — uses 49+ post templates and 8 format structures |
 | `linkedin-writer` | Creates professional LinkedIn posts and articles |
 | `outreach-specialist` | Crafts personalized outreach messages |
 | `competitor-intel` | Analyzes competitors with verified metrics, leverage strategies, and predicted next moves |
