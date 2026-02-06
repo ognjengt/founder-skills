@@ -45,7 +45,7 @@ cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
 | `cro-optimization` | Analyzes landing pages against 13 CRO principles and provides detailed optimization recommendations with before/after examples |
 | `viral-hook-creator` | Creates viral hooks for content and marketing |
 | `lead-magnet-generator` | Creates viral lead magnet posts with CTAs that drive comments and DMs — produces quick and detailed formats for Twitter/X and LinkedIn |
-| `strategic-planning` | Strategic business planning and roadmapping |
+| `strategic-planning` | Analyzes your business to deliver 3 specific, high-impact next moves for growth (marketing/sales) — asks diagnostic questions when needed to uncover bottlenecks and opportunities |
 | `x-writer` | Writes engaging X (Twitter) content |
 | `linkedin-writer` | Creates professional LinkedIn posts and articles |
 | `outreach-specialist` | Crafts personalized outreach messages |
