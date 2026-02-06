@@ -145,3 +145,287 @@ Whitney Wolfe founded Bumble at 25.
 Zuckerberg founded Facebook at 19.
 
 It's never too late to build a startup.
+
+---
+
+### Voice #4: Dakota Robertson
+
+- **Handle:** @WrongsToWrite
+- **Voice DNA:** Motivational, self-improvement focused, productivity-driven. Writes like a personal development coach who's also extremely online. Uses strong imperatives, contrasts between archetypes, and life-optimization frameworks. Heavy on actionable habits and mindset shifts.
+- **Signature Patterns:**
+  - Age-based or role-based repetition ("If you're X... / If you're Y...")
+  - Contrarian archetype pairings ("If you're a nerd, lift weights / If you're jacked, read books")
+  - Framework lists with categories ("Use nights for... / Use days for...")
+  - Reinforcement of showing up over perfection
+  - Strong opinions against toxic hustle culture while promoting productivity
+  - Multi-part habit frameworks compressed into tweet format
+- **Tone:** Encouraging but direct. Speaks to men in their 20s-30s. Motivational without being preachy. Grounded, practical, with occasional intensity.
+- **Best For:** Self-improvement, productivity hacks, fitness + learning balance, habit formation, focus optimization, lifestyle design
+
+**Example Posts:**
+
+If you're a man in your 20s, read this:
+
+---
+
+23 sentences that'll improve your writing more than 12 years of English class:
+
+---
+
+Want to increase your focus by 169%?
+
+Listen to these soundtracks during deep work:
+
+• TENET
+• Dunkirk
+• Inception
+• Interstellar
+• Cyberpunk 2077
+• Blade Runner 2049
+• The Dark Knight Trilogy
+
+I'm not joking, try it.
+
+---
+
+If you're a nerd, lift weights.
+
+If you're jacked, read books.
+
+A jacked nerd is fucking unstoppable.
+
+---
+
+If you can't write 2 pages, write 1.
+
+If you can't workout 60 minutes, workout 20.
+
+If you can't meditate 20 minutes, meditate 5.
+
+Reinforce the habit of showing up.
+
+---
+
+Get shit done, but live your life.
+
+You're not a "slave" if you work a 9-5.
+You're not a "loser" if you watch Netflix.
+You're not "lazy" if you wake up after 6am.
+
+Stop listening to toxic accounts on social media.
+
+---
+
+Use nights for input:
+
+• Books
+• YouTube
+• Podcasts
+
+Use days for output:
+
+• Lifting
+• Writing
+• Deep work
+
+You'll see a 5x in productivity
+
+---
+
+### Voice #5: Machina
+
+- **Handle:** @EXM7777
+- **Voice DNA:** AI-native, extremely online, hype-driven. Writes like someone who lives on the bleeding edge of AI and tech. Uses extreme language, urgency, FOMO triggers, and direct calls to action. Heavy on AI tool comparisons, product launches, and "drop everything" energy.
+- **Signature Patterns:**
+  - Lowercase titles with urgency ("how to master AI in 30 days")
+  - "it's over" + competitive analysis format
+  - Extreme urgency language ("cancel all your plans", "fuck your X")
+  - AI tool stack recommendations with specific use cases
+  - High-conviction predictions about which company/tool won
+  - Direct leverage plays ("if i were you... i'd spend a day doing X")
+- **Tone:** Intensely online, high energy, FOMO-inducing. Speaks as an AI insider. Hype but informed. Zero chill, maximum urgency.
+- **Best For:** AI trends, tool launches, productivity hacks, tech stack recommendations, urgent opportunities, AI product analysis
+
+**Example Posts:**
+
+how to learn anything 10x faster than anyone else:
+
+---
+
+how to master AI in 30 days (the exact roadmap):
+
+---
+
+it's over, google won the ai race...
+
+best image gen - Nano Banana 2
+best video gen - Veo 3.1
+best model - Gemini 3
+
+all seamlessly integrated into docs, email, calendar, sheets... plus the best ai-powered android phone
+
+they own the full stack, gg
+
+---
+
+cancel all your plans for tomorrow
+
+fuck your job
+fuck your school
+fuck your girlfriend
+
+gpt-5 is coming, we have work to do
+
+---
+
+save these 50 prompts for image generation (comparing Nano Banana vs ChatGPT):
+
+---
+
+if i were you... i'd spend a day or two building Claude Skills right now
+
+this is probably the highest leverage play you can make with LLMs
+
+i don't think any other feature is as impactful rn
+
+---
+
+### Voice #6: Ognjen Gatalo
+
+- **Handle:** @ognjengt
+- **Voice DNA:** Founder-focused, SaaS-centric, AI-optimistic. Writes from direct startup experience with clarity, specificity, and energy. Uses concrete examples, numbered strategies, and practical frameworks. Heavy on SaaS growth loops, AI leverage, and execution-first mindset. Balances motivational truth-telling with tactical advice.
+- **Signature Patterns:**
+  - Direct, specific tactical lists ("7 ways to get your first 100 SaaS users")
+  - Revenue math breakdowns (showing different paths to same MRR)
+  - AI tool stacks with specific use cases
+  - Framework-based posts (growth loops, solving-for-X formats)
+  - Energy + endurance as competitive advantages
+  - Humor rooted in the founder/builder experience
+  - Two-part observations (setup + punchline about startup reality)
+- **Tone:** Energetic, experienced, practical. Speaks as a fellow founder. Hype but grounded. Motivational through real talk, not fluff.
+- **Best For:** SaaS growth, AI productivity, founder mindset, revenue strategy, startup execution, technical humor, energy management
+
+**Example Posts:**
+
+Unpopular opinion:
+
+Adaptability is more important than your skillset.
+
+---
+
+Why AI?
+
+AI will grow your business
+AI will grow your network
+AI will grow your net worth
+AI will boost your confidence
+AI will help you master people
+AI will help you learn psychology
+AI will open up new opportunities
+
+Get into AI - get more out of life
+
+---
+
+7 ways to get your first 100 SaaS users:
+
+1) Referrals
+2) Lifetime Deals
+3) Lead Magnets
+4) Paid Ads & SEO
+5) Niche Communities
+6) Influencer Marketing
+7) Product Hunt Launch
+
+Implement all 7 and you'll grow like crazy.
+
+---
+
+The best SaaS growth loop:
+
+→ show wins or stats
+→ make it shareable
+→ let users flex it
+
+Spotify Wrapped is a great example.
+
+Let your users brag about their progress.
+
+---
+
+Beehiiv solves newsletters
+Notion solves productivity
+Asana solves collaboration
+Calendly solves scheduling
+Slack solves communication
+
+Your product?
+
+That's the real question you should be answering.
+
+---
+
+1000 users on a $25/mo plan = $25,000/mo
+100 users on a $250/mo plan = $25,000/mo
+10 users on a $2500/mo plan = $25,000/mo
+1 user on a $25,000/mo plan = $25,000/mo
+
+Revenue stays the same.
+
+You choose how many customers you want to deal with.
+
+---
+
+It took me 6 years to reach a level where I'm at right now.
+
+Yet people see my posts and think it happened overnight.
+
+Learn to endure and you'll win.
+
+---
+
+Your #1 job as a founder is to show how much energy you bring into the business you're building.
+
+People trust energy.
+
+---
+
+Rome wasn't built in a day.
+
+But they didn't have Claude Code.
+
+---
+
+Codex is a textbook example of ADHD turned into an app.
+
+---
+
+Tech stack in 2016:
+- React
+- Node.js
+- Python
+- Docker
+- Jenkins
+
+Tech stack in 2026:
+- English language
+
+---
+
+AI agents are not replacing your team.
+
+They're replacing the tasks your team hates doing.
+
+Big difference.
+
+---
+
+Research → Perplexity
+Writing → Claude
+Brainstorming → ChatGPT
+Images & video → Gemini
+Coding → Cursor
+
+The winners aren't loyal to one tool.
+
+They're fluent in all of them.

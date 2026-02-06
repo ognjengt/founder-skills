@@ -379,9 +379,22 @@ In the next 5 years, you'll be glad you did.
 
 ---
 
+### Post #28
+
+If you're 20, start learning AI.
+If you're 30, start learning AI.
+If you're 40, start learning AI.
+If you're 50, start learning AI.
+If you're 60, start learning AI.
+If you're 70, start learning AI.
+
+It's never too late to get
+
+---
+
 ## Comparison (This vs That)
 
-### Post #28
+### Post #31
 
 1st time SaaS founder:
 
@@ -399,7 +412,7 @@ Think like the 2nd founder.
 
 ---
 
-### Post #29
+### Post #31
 
 Your SaaS startup:
 
@@ -417,7 +430,7 @@ Your competitor's SaaS startup:
 
 ---
 
-### Post #30
+### Post #31
 
 Startup founders that are forever stuck:
 
@@ -707,3 +720,17 @@ Bro just say you're looking for a cracked engineer.
 ### Post #49
 
 If you ever feel useless, just remember that a literal rock is writing your code.
+
+---
+
+## One-Liner (Additional)
+
+### Post #50
+
+Sometimes the best marketing strategy is just being hyped about what you've built.
+
+---
+
+### Post #51
+
+With AI, we're watching a decade of progress evolve in 1 month.

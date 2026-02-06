@@ -69,6 +69,9 @@ If the user did NOT specify a voice:
    - Business advice, mindset, pricing, sales, productivity → suggest **Alex Hormozi**
    - Life philosophy, contrarian takes, self-improvement, minimalism → suggest **Naval Ravikant**
    - Startup advice, CEO/founder roles, hiring, company building → suggest **Andrew Gazdecki**
+   - Self-improvement, productivity hacks, fitness + learning, habits → suggest **Dakota Robertson**
+   - AI trends, tool launches, tech stack recommendations, urgent opportunities → suggest **Machina**
+   - SaaS growth, AI productivity, founder mindset, revenue strategy → suggest **Ognjen Gatalo**
 3. Ask the user to confirm using AskUserQuestion:
    - **[Suggested Voice] (Recommended)** — [one-line description of why it fits]
    - **[Other Voice 1]** — [one-line description]
@@ -218,8 +221,8 @@ You shipped a product. You never shipped distribution.
 | File | Purpose |
 |------|---------|
 | `./references/formats.md` | 8 proven post formats with structure templates, psychology, and rules |
-| `./references/posts.md` | 49+ proven viral posts organized by format — the example library |
-| `./references/voices.md` | Creator voice profiles with writing DNA, signature patterns, and example posts |
+| `./references/posts.md` | 51+ proven viral posts organized by format — the example library |
+| `./references/voices.md` | 6 creator voice profiles (Hormozi, Naval, Gazdecki, Dakota, Machina, Ognjen) with writing DNA and example posts |
 
 **Why all three matter:** Formats provide structural templates for how posts are built. Posts show those templates executed at the highest level with real examples. Voices add the human layer that makes content feel authentic instead of AI-generated. All three together = posts that go viral because they have proven structure + proven patterns + authentic voice.
 
