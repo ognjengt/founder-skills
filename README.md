@@ -1,7 +1,10 @@
-# Claude Code skills pack for founders, marketers, content creators and business owners
+# Claude Code skills pack for founders, marketers, content creators and business owners.
 
-Claude Code skills for founders — SOPs, CRO, content creation, outreach, and strategic planning.
+This repository contains 20+ Claude skills that will help you turn Claude into a Fortune 500 growth team.
 
+Stop prompting from scratch and use 20+ proven marketing, copywriting, and product skills companies pay millions for.
+
+![Cover package](/packaging.png)
 ## Installation
 
 ### Quick Install (All Skills)
