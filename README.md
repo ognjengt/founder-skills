@@ -10,34 +10,13 @@ Stop prompting from scratch and use 20+ proven marketing, copywriting, and produ
 ### Quick Install (All Skills)
 
 ```bash
-npx founder-skills install
+npx skills add https://github.com/ognjengt/founder-skills
 ```
 
-### Install Specific Skills
+### Install a Specific Skill
 
 ```bash
-npx founder-skills install --skill sop-creator
-npx founder-skills install --skill sop-creator --skill linkedin-writer
-```
-
-### List Available Skills
-
-```bash
-npx founder-skills list
-```
-
-### Skip Context File
-
-```bash
-npx founder-skills install --no-context
-```
-
-### Manual Installation
-
-```bash
-git clone https://github.com/ognjengt/founder-skills
-cp -r founder-skills/skills/* ~/.claude/skills/
-cp founder-skills/FOUNDER_CONTEXT.md ./  # Copy to your project root
+npx skills add https://github.com/ognjengt/founder-skills --skill prd-generator
 ```
 
 ## Available Skills
