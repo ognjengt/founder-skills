@@ -4,29 +4,39 @@
     "name": "Ognjen Gatalo",
     "url": "https://github.com/ognjengt"
   },
-  "version": "1.0.0",
-  "description": "Claude Code skills for founders — SOPs, CRO, content creation, outreach, and strategic planning",
-  "repository": "https://github.com/ognjengt/founder-skills",
+  "metadata": {
+    "description": "Claude Code skills for founders — SOPs, CRO, content creation, outreach, and strategic planning",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "founder-skills",
       "description": "Essential skills for founders: SOPs, conversion optimization, viral hooks, lead magnets, social media writing, outreach, and strategic planning",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "author": {
+        "name": "Ognjen Gatalo"
+      },
+      "repository": "https://github.com/ognjengt/founder-skills",
+      "license": "MIT",
+      "keywords": ["founder", "marketing", "copywriting", "outreach", "linkedin", "sop", "strategy"],
       "skills": [
-        "sop-creator",
-        "cro-optimization",
-        "viral-hook-creator",
-        "lead-magnet-generator",
-        "strategic-planning",
-        "go-to-market-plan",
-        "x-writer",
-        "linkedin-writer",
-        "outreach-specialist",
-        "competitor-intel",
-        "brand-copywriter",
-        "pricing-strategist",
-        "prd-generator",
-        "product-hunt-launch-plan",
-        "marketing-ideas"
+        "./skills/sop-creator",
+        "./skills/cro-optimization",
+        "./skills/viral-hook-creator",
+        "./skills/lead-magnet-generator",
+        "./skills/strategic-planning",
+        "./skills/go-to-market-plan",
+        "./skills/x-writer",
+        "./skills/linkedin-writer",
+        "./skills/outreach-specialist",
+        "./skills/competitor-intel",
+        "./skills/brand-copywriter",
+        "./skills/pricing-strategist",
+        "./skills/prd-generator",
+        "./skills/product-hunt-launch-plan",
+        "./skills/marketing-ideas"
       ]
     }
   ]

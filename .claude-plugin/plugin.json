@@ -1,0 +1,11 @@
+{
+  "name": "founder-skills",
+  "version": "1.0.0",
+  "description": "20+ proven marketing, copywriting, and product skills for founders, marketers, and business owners",
+  "author": {
+    "name": "Ognjen Gatalo"
+  },
+  "repository": "https://github.com/ognjengt/founder-skills",
+  "license": "MIT",
+  "keywords": ["founder", "marketing", "copywriting", "outreach", "linkedin", "sop", "strategy"]
+}

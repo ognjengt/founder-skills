@@ -7,16 +7,23 @@ Stop prompting from scratch and use 20+ proven marketing, copywriting, and produ
 <img src="./packaging.png" alt="Cover package" width="520">
 ## Installation
 
-### Quick Install (All Skills)
+### Via Terminal (npx)
 
 ```bash
 npx skills add https://github.com/ognjengt/founder-skills
 ```
 
-### Install a Specific Skill
+Install a specific skill:
 
 ```bash
 npx skills add https://github.com/ognjengt/founder-skills --skill prd-generator
+```
+
+### Via Plugin System (Claude Code & Cowork)
+
+```
+/plugin marketplace add ognjengt/founder-skills
+/plugin install founder-skills@founder-skills
 ```
 
 ## Available Skills
