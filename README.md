@@ -53,7 +53,9 @@ After installation, use skills in Claude Code by typing:
 
 ## Customizing for Your Business
 
-After installation, edit `FOUNDER_CONTEXT.md` in your project root:
+After installation, create the `FOUNDER_CONTEXT.md` in your project root, and copy the contents from this repository.
+
+Then replace the fields with your own custom values so that the skills are tailored to you:
 
 - Company name and industry
 - Target audience and value proposition
