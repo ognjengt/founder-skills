@@ -1,6 +1,5 @@
 ---
 name: prd-generator
-version: v1.0.0
 description: Generates professional PRD (Product Requirements Document) files optimized for AI coding tools. Takes a rough product idea, asks clarifying questions, and outputs a structured PDF ready to feed into AI coding assistants.
 ---
 

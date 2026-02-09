@@ -1,6 +1,5 @@
 ---
 name: brand-copywriter
-version: v1.0.0
 description: Writes marketing copy using proven copywriting frameworks. Use when user needs copy for ads (Facebook, Instagram, TikTok, YouTube), landing pages, sales pages, email sequences, LinkedIn posts, product descriptions, or any marketing content.
 ---
 

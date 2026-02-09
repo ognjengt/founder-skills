@@ -1,6 +1,5 @@
 ---
 name: strategic-planning
-version: v1.0.0
 description: Analyzes the founder's business context to deliver the 3 highest-impact next moves for growth (marketing or sales). Asks up to 10 diagnostic questions when needed to uncover bottlenecks, struggles, and opportunities. Use when user needs strategic guidance, next steps, growth planning, or actionable business strategy.
 ---
 

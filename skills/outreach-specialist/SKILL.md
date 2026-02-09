@@ -1,6 +1,5 @@
 ---
 name: outreach-specialist
-version: v1.0.0
 description: Crafts high-converting outreach messages and email sequences for cold outreach, LinkedIn DMs, and follow-ups. Use when user needs personalized outreach messages that book calls and get replies.
 ---
 

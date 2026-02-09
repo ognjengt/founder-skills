@@ -1,6 +1,5 @@
 ---
 name: marketing-ideas
-version: v1.0.0
 description: Produces the best marketing ideas for your business by analyzing your FOUNDER_CONTEXT and matching it against a curated database of 170+ proven marketing strategies. Use when user needs creative, actionable marketing ideas tailored to their business.
 ---
 

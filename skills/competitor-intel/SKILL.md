@@ -1,6 +1,5 @@
 ---
 name: competitor-intel
-version: v1.0.0
 description: Analyzes competitors using web research to provide verified business metrics, actionable leverage strategies, and predicted next moves. Use when user needs competitive intelligence, competitor analysis, market positioning insights, or strategic leverage opportunities.
 ---
 

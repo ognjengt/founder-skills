@@ -1,6 +1,5 @@
 ---
 name: x-writer
-version: v1.0.0
 description: Creates viral X (Twitter) posts using proven formats, post templates, and creator voice matching. Use when user needs engaging, high-performing posts for X/Twitter.
 ---
 
