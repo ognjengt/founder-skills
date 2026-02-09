@@ -5,6 +5,7 @@ This repository contains 20+ Claude skills that will help you turn Claude into a
 Stop prompting from scratch and use 20+ proven marketing, copywriting, and product skills companies pay millions for.
 
 <img src="./packaging.png" alt="Cover package" width="520">
+
 ## Installation
 
 ### Via Terminal (npx)
