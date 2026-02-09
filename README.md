@@ -19,11 +19,25 @@ Install a specific skill:
 npx skills add https://github.com/ognjengt/founder-skills --skill prd-generator
 ```
 
-### Via Plugin System (Claude Code & Cowork)
+### Manual Installation
 
+Clone the repo and copy all skills to your project:
+
+```bash
+git clone https://github.com/ognjengt/founder-skills
+cp -r founder-skills/skills/* .claude/skills/
 ```
-/plugin marketplace add ognjengt/founder-skills
-/plugin install founder-skills@founder-skills
+
+Or copy a single skill:
+
+```bash
+cp -r founder-skills/skills/prd-generator .claude/skills/
+```
+
+To install globally (available across all projects):
+
+```bash
+cp -r founder-skills/skills/* ~/.claude/skills/
 ```
 
 ## Available Skills
