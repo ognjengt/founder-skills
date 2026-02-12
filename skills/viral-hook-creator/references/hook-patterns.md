@@ -1,6 +1,6 @@
 # Viral Hook Patterns Reference
 
-This document contains 18 proven hook patterns with templates and examples. Use these as inspiration when generating hooks.
+This document contains 19 proven hook patterns with templates and examples. Use these as inspiration when generating hooks.
 
 ---
 
@@ -24,6 +24,7 @@ This document contains 18 proven hook patterns with templates and examples. Use 
 16. Tiny Change, Big Impact
 17. Everything Wrong
 18. Less Beats More
+19. Behind-the-Scenes Testing
 
 ---
 
@@ -351,6 +352,25 @@ This document contains 18 proven hook patterns with templates and examples. Use 
 
 ---
 
+## 19. Behind-the-Scenes Testing
+
+**Psychology:** Specific personal sacrifice details (late nights, long hours) create authenticity and trust. The reader thinks "they actually did the work" and wants to know the verdict. Combining effort with a comparison or hands-on test creates a strong curiosity gap.
+
+**Template:**
+- "I stayed up until [time] [timeframe], [testing/comparing action]"
+- "I spent [duration] [timeframe], [running/testing specific experiment]"
+- "I pulled an all-nighter [doing specific hands-on action]"
+
+**Examples:**
+- "I stayed up until 2 AM yesterday, testing Opus 4.6 and GPT-5.3-Codex side by side."
+- "I stayed up until 3 AM last night, A/B testing 47 different subject lines on my actual email list."
+- "I spent 6 straight hours yesterday, running every AI writing tool through the same 10 prompts."
+- "I pulled an all-nighter rebuilding my entire funnel in two different platforms to see which one actually converts."
+
+**Best for:** Product comparisons, tool reviews, experiment results, AI/tech content, personal brand building
+
+---
+
 ## Usage Guidelines
 
 ### When generating hooks:
@@ -372,13 +392,14 @@ This document contains 18 proven hook patterns with templates and examples. Use 
 | Tell stories | Cautionary Tale, Achievement with Constraint |
 | Challenge norms | Reset Expectations, Everything Wrong, Less Beats More |
 | Quick wins | Tiny Change, Tools/Resources, Steal My Process |
+| Show credibility through action | Behind-the-Scenes Testing, Proxy Learning, Achievement with Constraint |
 
 ### Platform-Pattern Fit
 
 | Platform | Best Patterns |
 |----------|---------------|
-| X/Twitter | Data-Driven, Opposite/Contrarian, Analysis-Based, The Unexpected |
-| LinkedIn | Authority Credibility, Achievement with Constraint, Cautionary Tale, Analysis-Based |
+| X/Twitter | Data-Driven, Opposite/Contrarian, Analysis-Based, The Unexpected, Behind-the-Scenes Testing |
+| LinkedIn | Authority Credibility, Achievement with Constraint, Cautionary Tale, Analysis-Based, Behind-the-Scenes Testing |
 | Instagram | Tiny Change, Tools/Resources, Steal My Process, Achievement with Constraint |
 | TikTok | You're Losing, The Unexpected, Myth-Busting, Cautionary Tale |
 | General | Proxy Learning, Analysis-Based, Data-Driven, Steal My Process |
