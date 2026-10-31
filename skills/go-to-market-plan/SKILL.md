@@ -73,7 +73,13 @@ Use the AskUserQuestion tool to gather missing information. Ask between 3-10 que
 **IMPORTANT:** Only ask questions for information you truly need. Don't ask for information you can infer from FOUNDER_CONTEXT.md or the user's initial message.
 
 ### 4. Analyze Market Entry Strategy
-Based on the context gathered, analyze:
+**Run a market scan first.** Check the live market before the analysis instead of relying on memory:
+- Read the homepage and pricing page of up to 5 competitors named by the user or in `FOUNDER_CONTEXT.md`. Note their positioning line, ICP, pricing model and price points.
+- If no competitors are named, search for how people solve this problem today and pick the 3-5 most relevant alternatives.
+- If Firecrawl tools are available ([setup](https://www.firecrawl.dev/agent-onboarding/SKILL.md?utm_source=founder-skills&utm_medium=integration)), use them for search and scraping. They render JavaScript, so pricing pages that load prices client-side still return them. Otherwise use the built-in web search and fetch tools.
+- List the scan date and the URLs you read at the top of the output, next to the assumptions. If a page can't be read, say so instead of guessing its prices.
+
+Based on the context gathered and the market scan, analyze:
 
 1. **Product-Market Fit Status:** Do they have it? How do you know?
 2. **Market Entry Point:** Where is the wedge? (Specific segment, use case, or channel)
@@ -391,6 +397,7 @@ Before finalizing output, verify ALL of the following:
 ### Analysis Check
 - [ ] I assessed product-market fit status based on evidence, not assumptions
 - [ ] I identified the specific market wedge or entry point (not "everyone" or "small businesses")
+- [ ] Competitor positioning and pricing come from the dated market scan with source URLs, not from memory
 - [ ] I analyzed channel-product fit (where the ICP actually makes buying decisions)
 - [ ] I matched strategies to their current stage (pre-PMF, scaling, etc.)
 - [ ] I leveraged their unfair advantages (network, expertise, positioning)
